@@ -5,6 +5,6 @@
 
 
 
-<img src="Images/MiniGrid-KeyCorridorS6R3-v0-randomevents.gif" alt="Fetch Slide"/> 
+<img src="media/Screenshot from 2020-11-22 15-48-02.png" alt="Fetch Slide"/> 
 
 
