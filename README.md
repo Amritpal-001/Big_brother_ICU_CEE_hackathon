@@ -35,5 +35,5 @@ AIM -
 ![Sample tracking ]("media/patient_activity.mkv")
 
  
- <video src="media/patient_activity.mkv"" width="320" height="200" controls preload></video>
+ <video src="/media/patient_activity.mkv"" width="320" height="200" controls preload></video>
 
