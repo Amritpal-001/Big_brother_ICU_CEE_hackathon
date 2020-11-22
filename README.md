@@ -35,3 +35,8 @@ AIM -
 ![Sample tracking ]("media/patient_activity.mkv")
 
 
+<video width="320" height="200" controls preload> 
+    <source src=""media/patient_activity.mkv""></source> 
+    <source src="media/WhatsApp%20Video%202020-11-22%20at%202.04.57%20PM.mp4""></source> 
+</video>
+
